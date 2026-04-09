@@ -1,0 +1,10 @@
+﻿{
+  "name": "@varyo/varyo-code",
+  "version": "0.1.0",
+  "description": "Varyo-OS Intelligence Core",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building Varyo-Code...'",
+    "start": "node index.js"
+  }
+}
